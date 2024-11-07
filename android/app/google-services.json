@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "448439117336",
+    "project_id": "drowsydriver-eebba",
+    "storage_bucket": "drowsydriver-eebba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448439117336:android:543fe4057d9e6a0dd4456d",
+        "android_client_info": {
+          "package_name": "com.example.drowsy_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448439117336-igbus2n860t6afke8j37n1rg4mhiubdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCihnnm-erN92ioo68ASxAM22dkgSMsCrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448439117336-igbus2n860t6afke8j37n1rg4mhiubdk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448439117336-khe0lngtcn8t30jffrb8mnj9f3mq0p85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.drowsyDriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
